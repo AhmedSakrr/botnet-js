@@ -1,4 +1,4 @@
-It Originally works on port 8080 but i tested it also on port 80 and it worked too :D
+It Originally works on port 8080 but i tested it also on port 80 & 443 and it worked too maybe it works on any port :D
 
 Steps:-
 
