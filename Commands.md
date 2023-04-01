@@ -6,6 +6,9 @@ second open another terminal in the same folder run >> node .\client.js
 
 
 
+
+
+
 Commands:-
 
 0 cat server.js
