@@ -1,4 +1,3 @@
-=====================================
 Steps:-
 
 first open terminal in the same folder run >> node .\server.js
@@ -11,4 +10,3 @@ Commands:-
 0 clear
 help
 list
-======================================
